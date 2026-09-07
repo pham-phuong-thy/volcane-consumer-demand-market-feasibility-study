@@ -266,20 +266,6 @@ Scenarios rated:
 | Meaningful | 47.2% |
 | Extremely meaningful and deserving of student community support | 41.7% |
 
----
-
-## Survey Referral Source
-
-### "One last question: Who referred you to this survey?"
-
-| Referrer | % |
-|---|---|
-| Huỳnh Thị Phương Dung | 9.4% |
-| Phạm Phương Thy | 19.7% |
-| Nguyễn Thiên Quốc | 22.0% |
-| Trần Thị Kim Chi | 9.4% |
-| Dương Thị Diễm Hằng | 22.8% |
-| Vương Nguyễn Hồng Ngọc | 16.5% |
 
 ---
 
