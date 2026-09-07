@@ -299,5 +299,3 @@ Scenarios rated:
 
 - Original Vietnamese survey response summary (Google Forms export)
 - Original Vietnamese survey questionnaire (Google Forms template)
-
-*Note: Some percentage totals in the source charts do not sum to exactly 100% due to rounding or chart-rendering artifacts in the original Google Forms export; figures above are transcribed as reported in the source document.*
